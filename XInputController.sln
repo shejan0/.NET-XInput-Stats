@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XInputController", "XInputController\XInputController.csproj", "{084A8046-490A-4C33-9618-BA837B750916}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{18E4361B-641E-4A0C-AF2E-3A155C6F65E5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{084A8046-490A-4C33-9618-BA837B750916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084A8046-490A-4C33-9618-BA837B750916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084A8046-490A-4C33-9618-BA837B750916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084A8046-490A-4C33-9618-BA837B750916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A662B37E-62C7-4C17-9AFF-5D8AC8D23C2E}
+	EndGlobalSection
+EndGlobal
